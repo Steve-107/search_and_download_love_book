@@ -1,0 +1,2 @@
+#需要先安装pyinstaller包：pip install pyinstaller
+pyinstaller -F -w -i book.ico main.py
